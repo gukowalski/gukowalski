@@ -1,9 +1,29 @@
-**Sobre 📖:** Desenvolvedor Backend com experiênca em Java, Spring Boot, [1x AWS Certified](https://www.credly.com/badges/363c6e51-c3d5-4ff2-be71-7d4be2983ed5/public_url), APIs REST, Docker, SQL, RabbitMQ
+<p>
+  Desenvolvedor em constante evolução, com interesse em tecnologia, inovação e boas práticas de desenvolvimento.
+</p>
 
-**Graduação 🎓:** Engenharia de Software — 6° semestre  
+<br/>
 
-Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/gustavokowalski/)
+<p><strong>Skills</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,rabbitmq,git&theme=light" />
+</p>
+
+<br/>
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f2f2f2&height=2" />
+
+<p>
+Estou sempre aprimorando minhas habilidades, e grande parte desse aprendizado está refletido nos projetos que desenvolvo aqui.  
+Você pode conferir meus principais projetos logo abaixo ↓
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+</p>
 
