@@ -7,8 +7,8 @@ Universidade de Mogi das Cruzes (UMC)
 
 <p><strong>Tecnologias em aprendizado e prática:</strong></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,postgres&theme=light" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,aws,postgres&theme=light" />
 </p>
 
 <br/>
