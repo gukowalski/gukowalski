@@ -1,5 +1,5 @@
 <p>
-  Desenvolvedor em constante evolução, com interesse em tecnologia, inovação e boas práticas de desenvolvimento.
+
   Cursando Engenharia de Software na Universidade de Mogi das Cruzes no 6 periodo.
 
 </p>
