@@ -6,10 +6,10 @@
 
 <br/>
 
-<p><strong>Skills</strong></p>
+<p><strong>Tecnologias que já tive contato:</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,rabbitmq,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git&theme=light" />
 </p>
 
 <br/>
