@@ -7,7 +7,7 @@
 <p>Principais Tecnologias:</strong></p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,java,python,spring,postgres,terraform&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,java,python,spring,postgres&theme=light" />
 </p>
 
 
