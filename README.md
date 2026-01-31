@@ -1,21 +1,14 @@
 
 
-<p>
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend. Possuo experiência prática em projetos pessoais utilizando Java, Spring Boot, Python, AWS e bancos de dados SQL, aplicando boas práticas de desenvolvimento, versionamento e arquitetura.
-</p>
+<p> 👨‍🎓 Estudante de Engenharia de Software (7 semestre) na UMC. </p>
 
-<p><strong>Tecnologias em aprendizado e prática:</strong></p>
+<p> ☁️ <a href="https://www.credly.com/badges/363c6e51-c3d5-4ff2-be71-7d4be2983ed5/public_url">1x AWS Certified</a></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,aws,postgres&theme=light" />
-</p>
-
-<p>☁️ <a href="https://www.credly.com/badges/363c6e51-c3d5-4ff2-be71-7d4be2983ed5/public_url">1x AWS Certified</a></p>
+<p>Principais Tecnologias:</strong></p>
 
 <p>
-Os projetos deste repositório representam aplicações desenvolvidas com foco em backend, APIs REST, integração com serviços em nuvem e persistência de dados. Cada projeto possui documentação com descrição técnica, instruções de execução e decisões de implementação.
+  <img src="https://skillicons.dev/icons?i=aws,java,python,spring,postgres,terraform&theme=light" />
 </p>
 
-### Conecte-se comigo
-- <a href="https://www.linkedin.com/in/gustavokowalski/">LinkedIn</a>
-- Buscando oportunidades de <strong>estágio em Engenharia de Software / Desenvolvimento de Software</strong>
+
+<a href="https://www.linkedin.com/in/gustavokowalski/">LinkedIn</a>
