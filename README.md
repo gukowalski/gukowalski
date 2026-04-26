@@ -1,15 +1,11 @@
+Graduando em Engenharia de Software pela UMC, com atuação como estagiário DevOps na CloudDog e experiência em desenvolvimento backend.
 
+Trabalho com AWS, automação de infraestrutura e desenvolvimento de APIs utilizando Java e Spring Boot, com integração a bancos de dados relacionais como PostgreSQL.
 
-<p> Me chamo Gustvo, estou me formando na faculdade de Engenharia de Software na UMC </p>
-<p> Atualmente sou estagiário DevOps na CloudDog e Desenvolvedor Backend </p>
+Tenho interesse em evoluir como Backend Engineer, com foco em aplicações escaláveis e boas práticas de arquitetura, aliado a conhecimentos em cloud e DevOps.
 
-<p> ☁️ <a href="https://www.credly.com/badges/363c6e51-c3d5-4ff2-be71-7d4be2983ed5/public_url">1x AWS Certified</a></p>
+Certificação AWS:
+https://www.credly.com/badges/363c6e51-c3d5-4ff2-be71-7d4be2983ed5/public_url
 
-<p>Principais Tecnologias:</strong></p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,java,python,spring,postgres&theme=light" />
-</p>
-
-
-<a href="https://www.linkedin.com/in/gustavokowalski/">LinkedIn</a>
+LinkedIn:
+https://www.linkedin.com/in/gustavokowalski/
